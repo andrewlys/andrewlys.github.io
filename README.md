@@ -6,5 +6,5 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 
 ## blog posts 
 
-* [(UNDER CONSTRUCTION) MCMC Tutorial](blog_posts\MCMC Tutorial\mcmc_tutorial.ipynb)
-* [Bessel Process and Hedging](blog_posts\Bessel Process and Hedging\bessel process and hedging.pdf)
+* [(UNDER CONSTRUCTION) MCMC Tutorial](blog_posts/MCMC%20Tutorial/mcmc_tutorial.ipynb)
+* [Bessel Process and Hedging](blog_posts/Bessel%20Process%20and%20Hedging/bessel%20process%20and%20hedging.pdf)
