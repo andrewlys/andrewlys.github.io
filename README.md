@@ -4,7 +4,17 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 
 ## [resume](Lys_Andrew_resume.pdf)
 
-## blog posts 
+## blog posts
 
 * [(UNDER CONSTRUCTION) MCMC Tutorial](https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC%20Tutorial/mcmc_tutorial.ipynb)
 * [Bessel Process and Hedging](blog_posts/Bessel%20Process%20and%20Hedging/bessel%20process%20and%20hedging.pdf)
+
+## projects
+
+* [volatility forecasting with vision transformers and order flow data](https://github.com/MarkDeng86/VolatilityPredictionDeepLearning)
+* [introduction to bsdes](https://github.com/andrewlys/intro_bsdes/blob/main/Andrew%20Lys%20BSDEs.pdf)
+* [multi alpha trading](https://github.com/andrewlys/multi_alpha_trading)
+* [weather shocks and airline vol](https://github.com/andrewlys/weather_shocks_airline_stock_returns)
+* [tft for value trap](https://github.com/andrewlys/tft_val_trap)
+* [cnn from scratch](https://github.com/andrewlys/cnn_from_scratch)
+* [manga sales &amp; ml did](https://github.com/andrewlys/manga_sales/blob/main/Causal_ML_Project-1.pdf)
