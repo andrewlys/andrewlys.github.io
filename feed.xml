@@ -6,11 +6,11 @@
     <description>math, machine learning, statistics, and mathematical finance</description>
     <item>
       <title>MCMC Tutorial - Part 1: Monte Carlo</title>
-      <link>https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC_Tutorial/MC.ipynb</link>
+      <link>blog_posts/MCMC_Tutorial/mc.html</link>
     </item>
     <item>
       <title>MCMC Tutorial - Part 2: Importance Sampling</title>
-      <link>https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC_Tutorial/is_rs.ipynb</link>
+      <link>blog_posts/MCMC_Tutorial/is.html</link>
     </item>
     <item>
       <title>Bessel Process and Hedging</title>
