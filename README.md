@@ -18,5 +18,6 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 * [tft for value trap](https://github.com/andrewlys/tft_val_trap)
 * [cnn from scratch](https://github.com/andrewlys/cnn_from_scratch)
 * [manga sales &amp; ml did](https://github.com/andrewlys/manga_sales/blob/main/Causal_ML_Project-1.pdf)
+* [uchicago reu 2024](https://github.com/andrewlys/reu_2024/blob/main/LebesgueSpaceChar.pdf)
 
 ## [resume](Lys_Andrew_resume.pdf) [linkedin](https://www.linkedin.com/in/andrew-lys-2223901a9/) [email](lysandrew03@gmail.com)
