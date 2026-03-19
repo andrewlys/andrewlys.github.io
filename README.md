@@ -13,7 +13,7 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 ## projects
 
 * [volatility forecasting with vision transformers and order flow data](https://github.com/MarkDeng86/VolatilityPredictionDeepLearning)
-* [introduction to bsdes](https://github.com/andrewlys/intro_bsdes/blob/main/Andrew%20Lys%20BSDEs.pdf)
+* [introduction to bsdes](projects\bsdes\Andrew Lys BSDEs.pdf)
 * [multi alpha trading](https://github.com/andrewlys/multi_alpha_trading)
 * [weather shocks and airline vol](https://github.com/andrewlys/weather_shocks_airline_stock_returns)
 * [tft for value trap](https://github.com/andrewlys/tft_val_trap)
