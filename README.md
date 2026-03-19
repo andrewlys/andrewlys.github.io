@@ -5,8 +5,9 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 ## blog posts
 
 * (Under Construction) MCMC Tutorial
-  * [Part 1](https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC%20Tutorial/MC.ipynb)
-  * [Part 2](https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC%20Tutorial/is_rs.ipynb) (under construction)
+  * [Part 1: Monte Carlo](https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC%20Tutorial/mc.ipynb)
+  * [Part 2: Importance Sampling](https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC%20Tutorial/is.ipynb) 
+  * Part 3: (Under Construction)
 * [Bessel Process and Hedging](blog_posts/Bessel%20Process%20and%20Hedging/bessel%20process%20and%20hedging.pdf)
 
 ## projects

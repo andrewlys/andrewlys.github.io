@@ -5,11 +5,11 @@
     <link>https://andrewlys.github.io/</link>
     <description>math, machine learning, statistics, and mathematical finance</description>
     <item>
-      <title>MCMC Tutorial - Part 1</title>
+      <title>MCMC Tutorial - Part 1: Monte Carlo</title>
       <link>https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC%20Tutorial/MC.ipynb</link>
     </item>
     <item>
-      <title>MCMC Tutorial - Part 2</title>
+      <title>MCMC Tutorial - Part 2: Importance Sampling</title>
       <link>https://nbviewer.jupyter.org/github/andrewlys/andrewlys.github.io/blob/main/blog_posts/MCMC%20Tutorial/is_rs.ipynb</link>
     </item>
     <item>
