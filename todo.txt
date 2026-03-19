@@ -1,0 +1,2 @@
+posts to make:
+* cnn from scratch
