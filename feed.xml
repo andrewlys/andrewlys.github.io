@@ -5,6 +5,10 @@
     <link>https://andrewlys.github.io/</link>
     <description>math, machine learning, statistics, and mathematical finance</description>
     <item>
+      <title>Continuous-Time Markov Chain Jump Times</title>
+      <link>blog_posts/CTMC_Jump_Time/ctmc_jump_time.html</link>
+    </item>
+    <item>
       <title>MCMC Tutorial - Part 1: Monte Carlo</title>
       <link>blog_posts/MCMC_Tutorial/mc.html</link>
     </item>

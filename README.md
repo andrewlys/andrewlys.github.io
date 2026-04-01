@@ -4,6 +4,7 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 
 ## blog posts
 
+* [Continuous Time Markov Chain Jump Times](blog_posts/CTMC_Jump_Time/ctmc_jump_time.html)
 * (Under Construction) MCMC Tutorial
   * [Part 1: Monte Carlo](blog_posts/MCMC_Tutorial/mc.html) 
   * [Part 2: Importance Sampling](blog_posts/MCMC_Tutorial/is.html) 
