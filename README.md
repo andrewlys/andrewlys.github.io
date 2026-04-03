@@ -7,30 +7,38 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 <details>
 <summary>Polya Urns</summary>
 
-* [Intro to Polya Urns](blog_posts/Polya_Urn/polya_urn.html)
+<ul>
+	<li><a href="blog_posts/Polya_Urn/polya_urn.html">Intro to Polya Urns</a></li>
+</ul>
 
 </details>
 
 <details>
 <summary>Continuous Time Markov Chains</summary>
 
-* [Continuous Time Markov Chain Jump Times](blog_posts/CTMC_Jump_Time/ctmc_jump_time.html)
+<ul>
+	<li><a href="blog_posts/CTMC_Jump_Time/ctmc_jump_time.html">Continuous Time Markov Chain Jump Times</a></li>
+</ul>
 
 </details>
 
 <details>
 <summary>MCMC_Tutorial</summary>
 
-* [Part 1: Monte Carlo](blog_posts/MCMC_Tutorial/mc.html)
-* [Part 2: Importance Sampling](blog_posts/MCMC_Tutorial/is.html)
-* Part 3: (Under Construction)
+<ul>
+	<li><a href="blog_posts/MCMC_Tutorial/mc.html">Part 1: Monte Carlo</a></li>
+	<li><a href="blog_posts/MCMC_Tutorial/is.html">Part 2: Importance Sampling</a></li>
+	<li>Part 3: (Under Construction)</li>
+</ul>
 
 </details>
 
 <details>
 <summary>Bessel Process and Hedging</summary>
 
-* [Bessel Process and Hedging](blog_posts/Bessel%20Process%20and%20Hedging/bessel%20process%20and%20hedging.pdf)
+<ul>
+	<li><a href="blog_posts/Bessel%20Process%20and%20Hedging/bessel%20process%20and%20hedging.pdf">Bessel Process and Hedging</a></li>
+</ul>
 
 </details>
 
