@@ -5,6 +5,10 @@
     <link>https://andrewlys.github.io/</link>
     <description>math, machine learning, statistics, and mathematical finance</description>
     <item>
+      <title>Intro to Polya's Urn</title>
+      <link>blog_posts/Polya_Urn/polya_urn.html</link>
+    </item>
+    <item>
       <title>Continuous-Time Markov Chain Jump Times</title>
       <link>blog_posts/CTMC_Jump_Time/ctmc_jump_time.html</link>
     </item>
