@@ -5,6 +5,10 @@
     <link>https://andrewlys.github.io/</link>
     <description>math, machine learning, statistics, and mathematical finance</description>
     <item>
+      <title>The Starship Enterprise Problem</title>
+      <link>blog_posts\Starship_Enterprise\starship_enterprise_part1.html</link>
+    </item>
+    <item>
       <title>Intro to Polya's Urn</title>
       <link>blog_posts/Polya_Urn/polya_urn.html</link>
     </item>

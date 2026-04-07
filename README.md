@@ -5,6 +5,15 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 ## blog posts
 
 <details>
+<summary>The Starship Enterprise and Martingales</summary>
+
+<ul>
+	<li><a href="blog_posts\Starship_Enterprise\starship_enterprise_part1.html"> Starship Enterprise</a></li>
+</ul>
+
+</details>
+
+<details>
 <summary>Polya Urns</summary>
 
 <ul>
