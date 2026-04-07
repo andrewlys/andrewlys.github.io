@@ -23,7 +23,7 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 </details>
 
 <details>
-<summary>MCMC_Tutorial</summary>
+<summary>MCMC Tutorial</summary>
 
 <ul>
 	<li><a href="blog_posts/MCMC_Tutorial/mc.html">Part 1: Monte Carlo</a></li>
