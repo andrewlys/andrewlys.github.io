@@ -15,4 +15,10 @@
 
 # IDE
 .history/
+
+# Blog posts
 blog_posts/Starship_Enterprise/starship_running_away.png
+
+# resume archive
+resume_archive/
+todo.txt

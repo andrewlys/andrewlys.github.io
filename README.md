@@ -53,6 +53,7 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 
 ## projects
 
+* [Efficient Factor-Based Conditional Diffusion Model for Contextual Portfolio Optimization](projects\diffusion_po\CSC_791_EDL_Project.pdf)
 * [volatility forecasting with vision transformers and order flow data](https://github.com/MarkDeng86/VolatilityPredictionDeepLearning)
 * [introduction to bsdes](projects\bsdes\Andrew Lys BSDEs.pdf)
 * [multi alpha trading](https://github.com/andrewlys/multi_alpha_trading)
@@ -62,4 +63,4 @@ I like math, machine learning, statistics, mathematical finance, and I make post
 * [manga sales &amp; ml did](https://github.com/andrewlys/manga_sales/blob/main/Causal_ML_Project-1.pdf)
 * [uchicago reu 2024](https://github.com/andrewlys/reu_2024/blob/main/LebesgueSpaceChar.pdf)
 
-## [resume](Lys_Andrew_resume.pdf) [linkedin](https://www.linkedin.com/in/andrew-lys-2223901a9/) [email](lysandrew03@gmail.com)
+## [resume](Lys_Andrew_resume.pdf) [linkedin](https://www.linkedin.com/in/andrew-lys-2223901a9/) [email](lysandrew03@gmail.com) [github](https://github.com/andrewlys)

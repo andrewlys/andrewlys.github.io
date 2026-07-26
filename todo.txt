@@ -1,2 +1,12 @@
 posts to make:
 * cnn from scratch
+* Doob Martingale Convergence Theorem and Upcrossings
+* gibbs sampling
+* random walk proposal
+* Hamiltonian mcmc
+* Record breaking statistics
+* Adaptive Rejection Sampling
+* Sampling H^+(a) := inf{t > 0: B_t >= a} using poisson point process
+    * subordinator post
+* Diffusions Process Post
+* 
